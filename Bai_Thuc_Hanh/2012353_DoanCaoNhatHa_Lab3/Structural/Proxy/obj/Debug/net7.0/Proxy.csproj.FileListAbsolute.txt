@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\bin\Debug\net7.0\Proxy.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\bin\Debug\net7.0\Proxy.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\bin\Debug\net7.0\Proxy.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\bin\Debug\net7.0\Proxy.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\bin\Debug\net7.0\Proxy.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\Proxy.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\Proxy.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\Proxy.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\Proxy.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\refint\Proxy.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\Proxy.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\Proxy.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy\obj\Debug\net7.0\ref\Proxy.dll

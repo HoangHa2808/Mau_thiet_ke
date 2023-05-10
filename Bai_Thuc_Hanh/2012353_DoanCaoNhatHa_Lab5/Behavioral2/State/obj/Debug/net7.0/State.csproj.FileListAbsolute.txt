@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\bin\Debug\net7.0\State.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\bin\Debug\net7.0\State.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\bin\Debug\net7.0\State.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\bin\Debug\net7.0\State.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\bin\Debug\net7.0\State.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\State.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\State.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\State.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\State.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\State.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\refint\State.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\State.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\State.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State\obj\Debug\net7.0\ref\State.dll

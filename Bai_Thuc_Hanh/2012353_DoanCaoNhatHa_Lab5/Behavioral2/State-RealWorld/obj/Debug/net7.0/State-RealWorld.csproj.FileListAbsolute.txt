@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\bin\Debug\net7.0\State-RealWorld.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\bin\Debug\net7.0\State-RealWorld.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\bin\Debug\net7.0\State-RealWorld.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\bin\Debug\net7.0\State-RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\bin\Debug\net7.0\State-RealWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\State-RealWorld.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\State-RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\State-RealWorld.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\State-RealWorld.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\State-RealWorld.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\State-RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\refint\State-RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\State-RealWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\State-RealWorld.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\State-RealWorld\obj\Debug\net7.0\ref\State-RealWorld.dll

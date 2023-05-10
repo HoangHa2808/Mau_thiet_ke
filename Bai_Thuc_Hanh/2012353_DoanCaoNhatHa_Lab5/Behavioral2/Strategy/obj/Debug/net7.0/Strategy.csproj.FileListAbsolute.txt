@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\bin\Debug\net7.0\Strategy.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\bin\Debug\net7.0\Strategy.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\bin\Debug\net7.0\Strategy.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\bin\Debug\net7.0\Strategy.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\bin\Debug\net7.0\Strategy.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\Strategy.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\Strategy.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\refint\Strategy.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\Strategy.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\Strategy.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy\obj\Debug\net7.0\ref\Strategy.dll

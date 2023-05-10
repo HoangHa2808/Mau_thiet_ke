@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\bin\Debug\net7.0\TemplateMethod.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\bin\Debug\net7.0\TemplateMethod.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\bin\Debug\net7.0\TemplateMethod.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\bin\Debug\net7.0\TemplateMethod.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\bin\Debug\net7.0\TemplateMethod.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\TemplateMethod.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\TemplateMethod.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\TemplateMethod.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\TemplateMethod.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\refint\TemplateMethod.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\TemplateMethod.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\TemplateMethod.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\TemplateMethod\obj\Debug\net7.0\ref\TemplateMethod.dll

@@ -1,0 +1,8 @@
+H:\PT&TKPM-MTK\Lab01_MTK\Abstract_Factory\bin\Debug\Abstract_Factory.exe.config
+H:\PT&TKPM-MTK\Lab01_MTK\Abstract_Factory\bin\Debug\Abstract_Factory.exe
+H:\PT&TKPM-MTK\Lab01_MTK\Abstract_Factory\bin\Debug\Abstract_Factory.pdb
+H:\PT&TKPM-MTK\Lab01_MTK\Abstract_Factory\obj\Debug\Abstract_Factory.Structural.csproj.AssemblyReference.cache
+H:\PT&TKPM-MTK\Lab01_MTK\Abstract_Factory\obj\Debug\Abstract_Factory.Structural.csproj.SuggestedBindingRedirects.cache
+H:\PT&TKPM-MTK\Lab01_MTK\Abstract_Factory\obj\Debug\Abstract_Factory.Structural.csproj.CoreCompileInputs.cache
+H:\PT&TKPM-MTK\Lab01_MTK\Abstract_Factory\obj\Debug\Abstract_Factory.exe
+H:\PT&TKPM-MTK\Lab01_MTK\Abstract_Factory\obj\Debug\Abstract_Factory.pdb

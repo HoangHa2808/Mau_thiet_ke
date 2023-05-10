@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\bin\Debug\net7.0\Observer.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\bin\Debug\net7.0\Observer.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\bin\Debug\net7.0\Observer.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\bin\Debug\net7.0\Observer.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\bin\Debug\net7.0\Observer.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\Observer.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\Observer.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\Observer.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\Observer.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\Observer.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\refint\Observer.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\Observer.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\Observer.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer\obj\Debug\net7.0\ref\Observer.dll

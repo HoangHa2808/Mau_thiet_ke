@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\bin\Debug\net7.0\Facade_ReadWorld.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\bin\Debug\net7.0\Facade_ReadWorld.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\bin\Debug\net7.0\Facade_ReadWorld.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\bin\Debug\net7.0\Facade_ReadWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\bin\Debug\net7.0\Facade_ReadWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\Facade_ReadWorld.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\Facade_ReadWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\Facade_ReadWorld.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\Facade_ReadWorld.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\Facade_ReadWorld.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\Facade_ReadWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\refint\Facade_ReadWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\Facade_ReadWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\Facade_ReadWorld.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade_ReadWorld\obj\Debug\net7.0\ref\Facade_ReadWorld.dll

@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\bin\Debug\net7.0\Observer_RealWorld.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\bin\Debug\net7.0\Observer_RealWorld.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\bin\Debug\net7.0\Observer_RealWorld.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\bin\Debug\net7.0\Observer_RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\bin\Debug\net7.0\Observer_RealWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\Observer_RealWorld.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\Observer_RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\Observer_RealWorld.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\Observer_RealWorld.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\Observer_RealWorld.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\Observer_RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\refint\Observer_RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\Observer_RealWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\Observer_RealWorld.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral\Observer_RealWorld\obj\Debug\net7.0\ref\Observer_RealWorld.dll

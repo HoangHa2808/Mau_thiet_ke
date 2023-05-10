@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\Facade.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\Facade.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\Facade.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\Facade.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\bin\Debug\net7.0\Facade.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\bin\Debug\net7.0\Facade.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\bin\Debug\net7.0\Facade.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\bin\Debug\net7.0\Facade.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\bin\Debug\net7.0\Facade.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\Facade.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\refint\Facade.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\Facade.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\Facade.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Facade\obj\Debug\net7.0\ref\Facade.dll

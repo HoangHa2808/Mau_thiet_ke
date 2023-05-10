@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\bin\Debug\net7.0\Proxy_RealWorld.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\bin\Debug\net7.0\Proxy_RealWorld.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\bin\Debug\net7.0\Proxy_RealWorld.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\bin\Debug\net7.0\Proxy_RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\bin\Debug\net7.0\Proxy_RealWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\Proxy_RealWorld.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\Proxy_RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\Proxy_RealWorld.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\Proxy_RealWorld.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\Proxy_RealWorld.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\Proxy_RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\refint\Proxy_RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\Proxy_RealWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\Proxy_RealWorld.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Structural\Proxy_RealWorld\obj\Debug\net7.0\ref\Proxy_RealWorld.dll

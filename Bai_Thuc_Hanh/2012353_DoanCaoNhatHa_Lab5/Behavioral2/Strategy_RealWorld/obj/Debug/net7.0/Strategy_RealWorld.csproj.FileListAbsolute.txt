@@ -1,0 +1,15 @@
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\bin\Debug\net7.0\Strategy_RealWorld.exe
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\bin\Debug\net7.0\Strategy_RealWorld.deps.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\bin\Debug\net7.0\Strategy_RealWorld.runtimeconfig.json
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\bin\Debug\net7.0\Strategy_RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\bin\Debug\net7.0\Strategy_RealWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\Strategy_RealWorld.csproj.AssemblyReference.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\Strategy_RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\Strategy_RealWorld.AssemblyInfoInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\Strategy_RealWorld.AssemblyInfo.cs
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\Strategy_RealWorld.csproj.CoreCompileInputs.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\Strategy_RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\refint\Strategy_RealWorld.dll
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\Strategy_RealWorld.pdb
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\Strategy_RealWorld.genruntimeconfig.cache
+D:\Mau_thiet_ke\Bai_Thuc_Hanh\Behavioral2\Strategy_RealWorld\obj\Debug\net7.0\ref\Strategy_RealWorld.dll

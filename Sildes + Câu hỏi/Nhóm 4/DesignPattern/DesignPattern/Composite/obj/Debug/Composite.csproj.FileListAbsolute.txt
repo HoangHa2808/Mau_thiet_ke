@@ -1,0 +1,8 @@
+C:\Users\NHTV\Desktop\MauThietKe\Presentation\DesignPattern\Composite\bin\Debug\Composite.exe.config
+C:\Users\NHTV\Desktop\MauThietKe\Presentation\DesignPattern\Composite\bin\Debug\Composite.exe
+C:\Users\NHTV\Desktop\MauThietKe\Presentation\DesignPattern\Composite\bin\Debug\Composite.pdb
+C:\Users\NHTV\Desktop\MauThietKe\Presentation\DesignPattern\Composite\obj\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\NHTV\Desktop\MauThietKe\Presentation\DesignPattern\Composite\obj\Debug\Composite.csproj.SuggestedBindingRedirects.cache
+C:\Users\NHTV\Desktop\MauThietKe\Presentation\DesignPattern\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\NHTV\Desktop\MauThietKe\Presentation\DesignPattern\Composite\obj\Debug\Composite.exe
+C:\Users\NHTV\Desktop\MauThietKe\Presentation\DesignPattern\Composite\obj\Debug\Composite.pdb

@@ -1,0 +1,8 @@
+H:\PT&TKPM-MTK\Lab01_MTK\Singleton.RealWorld\bin\Debug\Singleton.RealWorld.exe.config
+H:\PT&TKPM-MTK\Lab01_MTK\Singleton.RealWorld\bin\Debug\Singleton.RealWorld.exe
+H:\PT&TKPM-MTK\Lab01_MTK\Singleton.RealWorld\bin\Debug\Singleton.RealWorld.pdb
+H:\PT&TKPM-MTK\Lab01_MTK\Singleton.RealWorld\obj\Debug\Singleton.RealWorld.csproj.AssemblyReference.cache
+H:\PT&TKPM-MTK\Lab01_MTK\Singleton.RealWorld\obj\Debug\Singleton.RealWorld.csproj.SuggestedBindingRedirects.cache
+H:\PT&TKPM-MTK\Lab01_MTK\Singleton.RealWorld\obj\Debug\Singleton.RealWorld.csproj.CoreCompileInputs.cache
+H:\PT&TKPM-MTK\Lab01_MTK\Singleton.RealWorld\obj\Debug\Singleton.RealWorld.exe
+H:\PT&TKPM-MTK\Lab01_MTK\Singleton.RealWorld\obj\Debug\Singleton.RealWorld.pdb
